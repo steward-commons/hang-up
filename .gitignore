@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.pytest_cache/
+data/
+backup/
+*.enc
+*.key
+.env
+.env.*
