@@ -9,3 +9,7 @@ backup/
 *.key
 .env
 .env.*
+
+# Working copies — never publish or upload
+*.bak*
+*.bak-*
